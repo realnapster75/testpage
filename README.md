@@ -22,7 +22,7 @@ System.out.println(":(")
 3. __COOLER TEXT__
 
 ## Check this table tho
-||rose|violet|honey|
+| |rose|violet|honey|
 ---
 |discriptor|red|blue|sweet|
 ||||like you!|
