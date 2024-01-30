@@ -10,3 +10,5 @@ if x == 2 {
 System.out.println(":(")
 }
 ```
+
+## Here is an image
