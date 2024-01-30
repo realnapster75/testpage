@@ -12,3 +12,4 @@ System.out.println(":(")
 ```
 
 ## Here is an image
+![Cool Image](oBmHlc-1692761522.jpg "Cool Image")
