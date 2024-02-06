@@ -1,4 +1,5 @@
 # WOW
+[page2.md](page2.md)
 ## This is a really cool Github Page!
 Check out this code:
 ```
